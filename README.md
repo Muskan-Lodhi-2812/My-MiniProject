@@ -1,2 +1,2 @@
 # My-MiniProject
-This is my first journey
+This is my first journey.
